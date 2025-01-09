@@ -9,3 +9,4 @@ Each "Half" object counts as 0.5.
 
 The results are displayed on the image, showing the number of "Pounds," "Halves," and the total count.
 
+
